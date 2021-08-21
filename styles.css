@@ -1,0 +1,50 @@
+*{
+    outline:none;
+    font-family: 'Anton', sans-serif;
+}
+body {
+    overflow:hidden;
+}
+
+canvas{
+    position:absolute;
+ 
+}
+#canvas{
+    height: auto;
+    width: atuo;
+}
+.btn{
+    top:3vh;
+    border: 0vh solid transparent;
+    border-radius:3vh;
+    padding:5%;
+    box-shadow:0.125vh 0.125vh 0.250vh 0.250vh #3F000F;
+    font-weight:bolder;
+    padding:2%;
+    background-color: #2BAE66FF;
+    color: #FCF6F5FF;
+    position:relative;
+    display:block;
+}
+.btntext{
+    font-size:4vw;
+    font-weight:bold;
+}
+#join{
+    float:inherit;
+    margin-top: 4vw;
+    
+}
+#connect{
+    float:inherit;
+    margin-top: 4vw;
+}
+#clear{
+    float:inherit;
+    margin-top: 4vw;
+}
+#help{
+    float:inherit;
+    margin-top: 4vw;
+}
