@@ -1,5 +1,5 @@
 # Dots-for-fun
-Click here [Dots for fun](https://lovelight-247.github.io/Dots-for-fun/) To see it in action!
+Click here [Dots for fun](https://derbi-calderon.github.io/Dots-for-fun/) To see it in action!
 <br>
 <br>
 About:
